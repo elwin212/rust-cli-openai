@@ -22,7 +22,7 @@ This is a command-line interface (CLI) program built using Rust that integrates 
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/rust-openai-chatbot-cli.git
+   git clone https://github.com/elwin212/rust-cli-openai.git
    cd rust-openai-chatbot-cli
    ```
 2. Set your OpenAI API key as an environment variable:
